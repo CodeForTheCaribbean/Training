@@ -1,4 +1,4 @@
 Training
 ========
 
-Fellowship training excersizes
+Fellowship training excersizes from codeforthecaribbean.org
